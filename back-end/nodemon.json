@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "sabysurinder",
+        "DB_PASSWORD": "Rajinder1",
+        "DB_NAME": "JobGoal",
+        "JWT_KEY": "secure_code"
+    }
+}
