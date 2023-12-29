@@ -1,6 +1,6 @@
 # Jobflex Backend file
 
-A nice project with a nice description
+This file servers as the backend server for the Jobflex react application. This file handles all the APIs for objects, authentications, and files used in the Jobflex React app. 
 
 ---
 ## Requirements
